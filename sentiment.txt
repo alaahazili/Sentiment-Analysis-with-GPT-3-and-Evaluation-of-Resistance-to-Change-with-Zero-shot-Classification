@@ -1,0 +1,51 @@
+tweets
+This is a positive tweet.
+I'm feeling great today!
+I don't like this at all.
+Neutral statement here.
+This is another positive tweet.
+I'm enjoying the weather today.
+I'm feeling sad.
+This is a fantastic day!
+I'm not sure how I feel about this.
+This is a negative tweet.
+I'm disappointed with the service.
+I love this product!
+This is a neutral tweet.
+I'm indifferent about the outcome.
+I'm excited for the weekend!
+This is a happy tweet.
+I'm feeling tired.
+I'm frustrated with this situation.
+This is a positive experience.
+I'm grateful for your help.
+I'm feeling anxious.
+This is a negative experience.
+I'm upset about the news.
+I'm feeling optimistic.
+This is a positive development.
+I'm bored with this task.
+I'm feeling stressed.
+This is a negative situation.
+I'm nervous about the presentation.
+I'm feeling content.
+This is a positive outcome.
+I'm feeling energetic.
+I'm disappointed with the results.
+This is a great opportunity.
+I'm feeling overwhelmed.
+I'm frustrated with the delays.
+This is a wonderful day.
+I'm feeling uncertain.
+I'm excited about the future.
+This is a positive change.
+I'm feeling motivated.
+I'm frustrated with the process.
+This is a significant improvement.
+I'm feeling relieved.
+I'm thrilled with the news.
+This is a positive sign.
+I'm feeling hopeful.
+I'm disappointed with the outcome.
+This is a major setback.
+I'm feeling pessimistic.

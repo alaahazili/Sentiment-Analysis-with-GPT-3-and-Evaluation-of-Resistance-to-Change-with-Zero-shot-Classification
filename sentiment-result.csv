@@ -1,0 +1,51 @@
+,tweets,Polarity,Subjectivity,Sentiment,Emoji,Cleaned tweets
+0,This is a positive tweet.,0.23,0.55,Neutral,😐,positive tweet
+1,I'm feeling great today!,1.0,0.75,Positive,😊,im feeling great today
+2,I don't like this at all.,0.0,0.0,Neutral,😐,dont like
+3,Neutral statement here.,0.0,0.0,Neutral,😐,neutral statement
+4,This is another positive tweet.,0.23,0.55,Neutral,😐,another positive tweet
+5,I'm enjoying the weather today.,0.5,0.6,Positive,😊,im enjoying weather today
+6,I'm feeling sad.,-0.5,1.0,Negative,😔,im feeling sad
+7,This is a fantastic day!,0.5,0.9,Positive,😊,fantastic day
+8,I'm not sure how I feel about this.,-0.25,0.89,Neutral,😐,im sure feel
+9,This is a negative tweet.,-0.3,0.4,Neutral,😐,negative tweet
+10,I'm disappointed with the service.,-0.75,0.75,Negative,😔,im disappointed service
+11,I love this product!,0.62,0.6,Positive,😊,love product
+12,This is a neutral tweet.,0.0,0.0,Neutral,😐,neutral tweet
+13,I'm indifferent about the outcome.,0.0,0.0,Neutral,😐,im indifferent outcome
+14,I'm excited for the weekend!,0.47,0.75,Neutral,😐,im excited weekend
+15,This is a happy tweet.,0.8,1.0,Positive,😊,happy tweet
+16,I'm feeling tired.,-0.4,0.7,Neutral,😐,im feeling tired
+17,I'm frustrated with this situation.,-0.7,0.2,Negative,😔,im frustrated situation
+18,This is a positive experience.,0.23,0.55,Neutral,😐,positive experience
+19,I'm grateful for your help.,0.0,0.0,Neutral,😐,im grateful help
+20,I'm feeling anxious.,-0.25,1.0,Neutral,😐,im feeling anxious
+21,This is a negative experience.,-0.3,0.4,Neutral,😐,negative experience
+22,I'm upset about the news.,0.0,0.0,Neutral,😐,im upset news
+23,I'm feeling optimistic.,0.0,0.0,Neutral,😐,im feeling optimistic
+24,This is a positive development.,0.23,0.55,Neutral,😐,positive development
+25,I'm bored with this task.,-0.5,1.0,Negative,😔,im bored task
+26,I'm feeling stressed.,0.0,0.0,Neutral,😐,im feeling stressed
+27,This is a negative situation.,-0.3,0.4,Neutral,😐,negative situation
+28,I'm nervous about the presentation.,0.0,0.0,Neutral,😐,im nervous presentation
+29,I'm feeling content.,0.0,0.0,Neutral,😐,im feeling content
+30,This is a positive outcome.,0.23,0.55,Neutral,😐,positive outcome
+31,I'm feeling energetic.,0.5,0.5,Positive,😊,im feeling energetic
+32,I'm disappointed with the results.,-0.75,0.75,Negative,😔,im disappointed results
+33,This is a great opportunity.,0.8,0.75,Positive,😊,great opportunity
+34,I'm feeling overwhelmed.,0.0,0.0,Neutral,😐,im feeling overwhelmed
+35,I'm frustrated with the delays.,-0.7,0.2,Negative,😔,im frustrated delays
+36,This is a wonderful day.,1.0,1.0,Positive,😊,wonderful day
+37,I'm feeling uncertain.,0.0,0.0,Neutral,😐,im feeling uncertain
+38,I'm excited about the future.,0.19,0.44,Neutral,😐,im excited future
+39,This is a positive change.,0.23,0.55,Neutral,😐,positive change
+40,I'm feeling motivated.,0.0,0.0,Neutral,😐,im feeling motivated
+41,I'm frustrated with the process.,-0.7,0.2,Negative,😔,im frustrated process
+42,This is a significant improvement.,0.38,0.88,Neutral,😐,significant improvement
+43,I'm feeling relieved.,0.0,0.0,Neutral,😐,im feeling relieved
+44,I'm thrilled with the news.,0.6,0.7,Positive,😊,im thrilled news
+45,This is a positive sign.,0.23,0.55,Neutral,😐,positive sign
+46,I'm feeling hopeful.,0.0,0.0,Neutral,😐,im feeling hopeful
+47,I'm disappointed with the outcome.,-0.75,0.75,Negative,😔,im disappointed outcome
+48,This is a major setback.,0.06,0.5,Neutral,😐,major setback
+49,I'm feeling pessimistic.,0.0,0.0,Neutral,😐,im feeling pessimistic
