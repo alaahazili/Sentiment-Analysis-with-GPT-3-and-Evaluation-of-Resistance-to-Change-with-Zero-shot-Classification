@@ -1,0 +1,22 @@
+# Web Framework
+flask==3.0.2
+streamlit==1.32.0
+
+# Data Processing
+pandas==2.2.1
+numpy==1.26.4
+
+# NLP and Machine Learning
+transformers==4.38.2
+torch==2.2.1
+cleantext==1.1.4
+openai==1.12.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+tqdm==4.66.2
+
+# Audio Processing
+soundfile==0.12.1
+librosa==0.10.1 
